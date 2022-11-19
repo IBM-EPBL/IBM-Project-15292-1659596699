@@ -17,7 +17,4 @@ ref.on("value", function(snapshot)
  }, function (error) {
     console.log("Error: " + error.code);
  });
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
